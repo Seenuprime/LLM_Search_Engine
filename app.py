@@ -21,7 +21,7 @@ wiki = WikipediaQueryRun(api_wrapper=wiki_wrapper)
 
 search = DuckDuckGoSearchResults(name="search")
 
-## Streamlit
+################################## Streamlit ######################################3
 st.title("ChatBot with Tools and Agents.")
 
 st.sidebar.title("Settings")
